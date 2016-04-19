@@ -1,0 +1,32 @@
+{
+  "siteName": {
+    "value": "FunFighters"
+  },
+  "hostingPlanName": {
+    "value": "FunFighters"
+  },
+  "siteLocation": {
+    "value": "West US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "serverName": {
+    "value": "fighters"
+  },
+  "serverLocation": {
+    "value": "North Europe"
+  },
+  "administratorLogin": {
+    "value": "critman"
+  },
+  "administratorLoginPassword": {
+    "value": "Manny777"
+  },
+  "databaseName": {
+    "value": "FunFighters_db"
+  }
+}
